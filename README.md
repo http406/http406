@@ -38,7 +38,7 @@
 <br/>
 <p align="center">
 <a href="https://app.daily.dev/http406"><img src="https://api.daily.dev/devcards/v2/oLwdNhRhlJUSdl75G4qH2.png?type=wide&r=u2u" width="652" alt="http406's Dev Card"/></a></p><br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=http406&show_icons=true&locale=en&layout=compact" alt="http406" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=http406&show_icons=true&locale=en&layout=compact" alt="http406" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=http406&show_icons=true&locale=en" alt="http406" /></p>
 
