@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://codepen.io/http406](https://codepen.io/http406)
 
-- ⚡ Fun fact **Memes loves and Jokes**
+- ⚡ Fun fact **Memes Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
