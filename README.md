@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello Guys, I'm http406</h1>
 <h3 align="center">I am a programming enthusiastic. I love C++, ruby, JavaScript, html5, css3, python3, python2, R, AngularJS, NodeJS, reactJS, p5JS, howlerJS also assembly.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=http406&label=Profile%20views&color=0e75b6&style=flat" alt="http406" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=http406&label=Profile%500views&color=0e75b6&style=flat" alt="http406" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=http406" alt="http406" /></a> </p>
 
