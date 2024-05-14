@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/psychedelicea" target="blank"><img src="https://img.shields.io/twitter/follow/psychedelicea?logo=twitter&style=for-the-badge" alt="psychedelicea" /></a> </p>
 
-- 🔭 I’m currently working on [Suduku-Solver-X-Wing-Swordfish-in-Javascript](https://github.com/http406/Suduku-Solver-X-Wing-Swordfish-in-Javascript)
+- ._. I’m currently working on [Building-Ai-Course-Elements-of-AI]([https://github.com/http406/Suduku-Solver-X-Wing-Swordfish-in-Javascript](https://github.com/http406/Building-Ai-Course-Elements-of-AI))
 
 - 🌱 I’m currently learning **Angular framework**
 
