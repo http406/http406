@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello Guys, I'm `нттየ⁴⁰⁶</h1>
-<h3 align="center">I am a programming enthusiastic. I love C++, ruby, JavaScript, html5, css3, python3, python2, R, AngularJS, NodeJS, reactJS, p5JS, howlerJS also assembly.</h3>
+<h3 align="center">I am a programming enthusiastic. I love C++, ruby, JavaScript, python3, python2, R, AngularJS, NodeJS, reactJS, p5JS, howlerJS also assembly.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=http406&label=Profile%500views&color=0e75b6&style=flat" alt="http406" /> </p>
 
