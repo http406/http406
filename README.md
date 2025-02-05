@@ -42,7 +42,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=http406&show_icons=true&locale=en" alt="http406" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http406&" alt="http406" /></p>
 
 <!--
 **http406/http406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
